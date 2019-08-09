@@ -1,0 +1,7 @@
+node_modules/
+src/css
+src/fonts
+src/vendor
+.idea
+.DS_Store
+package-lock.json
